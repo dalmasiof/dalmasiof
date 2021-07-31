@@ -1,13 +1,4 @@
-### Hello chosen one! 🖖
-
-<table width=200>
-     <tr>
-          <th></th>
-          <th></th>
-     </tr>
-     <tr>
-          <td>
-    
+### Hello chosen one 🖖    
 
 - 🏠 Brazil/São Paulo<br>
   
@@ -34,11 +25,6 @@
  <a href="https://github.com/dalmasiof">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=dark"/>
 </div>
-                    <tr>
-                    </tr>      
-     
-</table>
-
 
   
 <div>
@@ -53,7 +39,7 @@
   <img align="center" alt="DAL-netcore" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   
   
-  
+  <br>
   <img align="right" alt="DAL-gif" height="60" width="80" src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_1280.gifv">
   
 </div>
