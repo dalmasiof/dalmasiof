@@ -9,7 +9,7 @@
   API's and IONIC 5<br>
   to build hybrid apps and some web apps<br>
  
-- 👀 I’m I plan to take a look in REACT and REACT NATIVE ...<br>
+- 👀 I plan to take a look in REACT and REACT NATIVE ...<br>
  
 - 📫 How to reach me: {<br>
     dalmasiof@gmail.com<br>
