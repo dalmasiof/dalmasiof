@@ -1,8 +1,17 @@
 ### Hello chosen one! 🖖
 
+<div style="display: inline-block;" >
+     <span>
+    <a href="https://github.com/dalmasiof"><a/>
+       
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=dark"/> 
+      </span>
+</div>
+
 #### About Me 
     
-<div style="display: inline_block">
+<div>
 - 🏠 Brazil/São Paulo<br>
   <br>
 - 🔭 I’m currently working on web dev full stack and my
@@ -21,16 +30,6 @@
  <br>
 - ⚡ Fun fact: .-_El Psy Congroo_-. 
     <br>
-  
-  <span>
-    <a href="https://github.com/dalmasiof"><a/>
-  <img height="180" width=100 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=dark"/> 
-      <span>
-  
-
-    
-    
-    
 </div>
   
 <div>
