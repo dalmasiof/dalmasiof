@@ -1,28 +1,25 @@
 ### Hello chosen one! 🖖
 
-<div style="display: inline-block;" >
-     <span>
-    <a href="https://github.com/dalmasiof"><a/>
-       
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=dark"/> 
-      </span>
-</div>
-
-#### About Me 
+<table width=200>
+     <tr>
+          <th></th>
+          <th></th>
+     </tr>
+     <tr>
+          <td>
     
-<div>
+
 - 🏠 Brazil/São Paulo<br>
-  <br>
+  
 - 🔭 I’m currently working on web dev full stack and my
   <br> main tecnologies are ANGULAR, .NET EF and SQL SERVER<br>
- <br>
+ 
 - 🌱 I’m currently learning .NET CORE for multplataform<br>
   API's and IONIC 5<br>
   to build hybrid apps and some web apps<br>
-  <br>
+ 
 - 👀 I’m I plan to take a look in REACT and REACT NATIVE ...<br>
-  <br>
+ 
 - 📫 How to reach me: {<br>
     dalmasiof@gmail.com<br>
     dalmasiof@outlook.com<br>
@@ -30,7 +27,19 @@
  <br>
 - ⚡ Fun fact: .-_El Psy Congroo_-. 
     <br>
+</td>
+          <td>
+               <div>
+               
+ <a href="https://github.com/dalmasiof">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=dark"/>
 </div>
+                    <tr>
+                    </tr>      
+     
+</table>
+
+
   
 <div>
 
@@ -48,3 +57,5 @@
   <img align="right" alt="DAL-gif" height="60" width="80" src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_1280.gifv">
   
 </div>
+     
+     
