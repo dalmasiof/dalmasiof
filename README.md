@@ -40,7 +40,7 @@
   
   
   <br>
-  <img align="right" alt="DAL-gif" height="60" width="80" src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_1280.gifv">
+  <img align="center alt="DAL-gif" height="60" width="80" src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_1280.gifv">
   
 </div>
      
