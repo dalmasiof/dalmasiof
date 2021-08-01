@@ -1,32 +1,33 @@
-### Hello chosen one 🖖    
+### Hello chosen one 🖖  
+##
 
   <a href="https://github.com/dalmasiof"><a/>
   <img align="right" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=highcontrast"/>
 
   <div width="20" align="left">
   
-- 🏠 Brazil/São Paulo<br>
+- 🏠 Brazil/São Paulo<br/>
   
 - 🔭 I’m currently working on web dev full stack and my
-  <br> main tecnologies are ANGULAR, .NET EF and SQL SERVER<br>
+  <br> main tecnologies are ANGULAR, .NET EF and SQL SERVER<br/>
  
-- 🌱 I’m currently learning .NET CORE for multplataform<br>
+- 🌱 I’m currently learning .NET CORE for multplataform<br/>
   API's and IONIC 5<br>
-  to build hybrid apps and some web apps<br>
+  to build hybrid apps and some web apps<br/>
  
-- 👀 I plan to take a look in REACT and REACT NATIVE ...<br>
+- 👀 I plan to take a look in REACT and REACT NATIVE ...<br/>
  
-- 📫 How to reach me: {<br>
-    dalmasiof@gmail.com<br>
-    dalmasiof@outlook.com<br>
- }
- <br>
 - ⚡ Fun fact: .-_El Psy Congroo_-. 
-    <br>
+    <br/>
   </div>               
 
-<br>
-<br>
+<br/>
+<br/>
+
+  <a href = "mailto:dalmasiof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dalmasio-fernandes-de-oliveira-filho-741a74147/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+## 
   
 <img align="right" alt="DAL-gif" height="140" width="180" src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_1280.gifv">
 
