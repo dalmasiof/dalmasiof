@@ -17,7 +17,7 @@
  
 - 👀 I plan to take a look in REACT and REACT NATIVE ...<br/>
  
-- ⚡ Fun fact: .-_El Psy Congroo_-. 
+- ⚡ My Learning Methodologie: make more mistakes, learn more 
     <br/>
   </div>               
 
