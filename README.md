@@ -12,7 +12,7 @@
   <br> main tecnologies are ANGULAR, .NET EF and SQL SERVER<br/>
  
 - 🌱 I’m currently learning .NET CORE for multplataform<br/>
-  API's and IONIC 5<br>
+  API's performing my knowledge in Angular<br>
   to build hybrid apps and some web apps<br/>
  
 - 👀 I plan to take a look in REACT and REACT NATIVE ...<br/>
