@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on web dev full stack and my
   <br> main tecnologies are ANGULAR, .NET EF and SQL SERVER<br/>
  
-- 🌱 I’m currently learning .NET CORE for multplataform<br/>
+- 🌱 I’m currently learning .NET CORE for multiplataform<br/>
   API's performing my knowledge in Angular<br>
   to build hybrid apps and some web apps<br/>
  
