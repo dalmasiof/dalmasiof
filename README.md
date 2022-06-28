@@ -1,5 +1,5 @@
-### Hello chosen one 🖖  
-##
+### Hello my friend! 🖖  
+##  Here some resume about me:
 
   <a href="https://github.com/dalmasiof"><a/>
   <img align="right" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=highcontrast"/>
@@ -11,13 +11,12 @@
 - 🔭 I’m currently working on web dev full stack and my
   <br> main tecnologies are ANGULAR, .NET EF and SQL SERVER<br/>
  
-- 🌱 I’m currently learning .NET CORE for multiplataform<br/>
-  API's performing my knowledge in Angular<br>
-  to build hybrid apps and some web apps<br/>
+- 🌱 I’m currently learning microsservices estructure, now working with Message Queues Service<br/>
+  Allways performing my Angular skill's<br>
  
-- 👀 I plan to take a look in REACT and REACT NATIVE ...<br/>
+- 👀 Currently looking for CLoud Development ...<br/>
  
-- ⚡ My Learning Methodologie: make more mistakes and learn more 
+- ⚡ My Learning Methodologie: With big mistakes, come big lessons. 
     <br/>
   </div>               
 
