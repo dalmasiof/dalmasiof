@@ -8,11 +8,12 @@
   
 - 🏠 Brazil/São Paulo<br/>
   
-- 🔭 I’m currently working on web dev full stack and my
-  <br> main tecnologies are ANGULAR, .NET EF and SQL SERVER<br/>
+- 🔭 I’m currently working on web development Full Stack and my
+  <br> main tecnologies are ANGULAR 8+, .NET Framework and .NET Core and SQL SERVER<br/>
  
 - 🌱 I’m currently learning microsservices estructure, now working with Message Queues Service<br/>
-  Allways performing my Angular skill's<br>
+  
+-  🛠 Allways performing my Angular skill's<br>
  
 - 👀 Currently looking for CLoud Development ...<br/>
  
@@ -34,14 +35,15 @@
 
   <img align="center" alt="DAL-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DAL-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="DAL-netcore" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="DAL-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="DAL-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
+  <img align="center" alt="DAL-angular" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="DAL-HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="DAL-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="DAL-react" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="DAL-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="DAL-dotnet" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="DAL-netcore" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-    
+  <br>
+  <img align="center" alt="DAL-sql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="DAL-git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
      
