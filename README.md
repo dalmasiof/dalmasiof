@@ -1,26 +1,27 @@
-# Hello my friend! 🖖  
-##  Here some resume about me:
+# Hello, my friend! 🖖
 
-  <a href="https://github.com/dalmasiof"><a/>
-  <img align="right" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=highcontrast"/>
+Welcome to my GitHub profile! Here’s a quick overview about me:
 
-  <div width="20" align="left">
-  
-- 🏠 Brazil/São Paulo<br/>
-  
-- 🔭 I’m currently working on web development Full Stack and my
-  <br> main tecnologies are ANGULAR 8+, .NET Framework and .NET Core and SQL SERVER<br/>
- 
-- 🌱 I’m currently learning microsservices estructure, now working with Message Queues Service<br/>
-  
--  🛠 Allways performing my Angular skill's<br>
- 
-- 👀 Currently looking for CLoud Development ...<br/>
- 
-- ⚡ My Learning Methodologie: With big mistakes, come big lessons. 
-    <br/>
-  </div>               
+## 🌍 Where I'm From  
+🇧🇷 Based in São Paulo, Brazil
 
+<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=highcontrast"/>
+
+## 💻 What I Do  
+I'm a Full Stack Web Developer with a focus on:
+
+- 🔧 **Frontend**: Angular 8+  
+- 🔩 **Backend**: .NET Framework & .NET Core  
+- 🛢️ **Database**: SQL Server
+
+## 🚀 What I'm Learning  
+I'm currently diving deeper into:
+
+- 🧩 **Microservices architecture**
+- 📬 **Message Queues** (like RabbitMQ or similar)
+- ☁️ Exploring opportunities in **Cloud Development**
+
+<br/>
 <br/>
 <br/>
 
