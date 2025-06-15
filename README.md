@@ -9,9 +9,9 @@ Welcome to my GitHub profile! Here’s a quick overview about me:
 ## 💻 What I Do  
 I'm a Full Stack Web Developer with a focus on:
 
-- 🔧 **Frontend**: Angular 8+  
-- 🔩 **Backend**: .NET Framework & .NET Core  
-- 🛢️ **Database**: SQL Server
+- 🔧 **Frontend**: Angular 8+, React  
+- 🔩 **Backend**: .NET Framework & .NET Core, Node.js
+- 🛢️ **Database**: SQL Server, MongoDB, DynamoDB
 - ☁️ **Cloud**: Amazon Web Services
 
 ## 📜 Certifications
